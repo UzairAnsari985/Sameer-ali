@@ -1,0 +1,33 @@
+.text {
+    display: flex;
+    gap: 56px;
+    /* columns: 8px; */
+    border: solid;
+    border-color: black;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.main {
+    display: flex;
+    padding: 40px;
+    /* margin: 20px;     */
+    border: solid;
+    box-sizing: border-box;
+    max-width: 1000px;
+    /* min-width: 100px; */
+     font-family: Georgia, Times, serif;
+    border-color: #0088dd;
+    justify-content: center;
+    align-items: center;
+}
+
+.para {
+    display: flex;
+    /* margin: 40px; */
+    /* padding: 40px 100px 60px 60px; */
+    border: solid;
+    border-color: #0088dd;
+
+}
+
