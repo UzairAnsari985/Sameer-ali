@@ -1,7 +1,7 @@
-.text {
+/* .text {
     display: flex;
     gap: 56px;
-    /* columns: 8px; */
+    columns: 8px;
     border: solid;
     border-color: black;
     width: 100%;
@@ -11,11 +11,11 @@
 .main {
     display: flex;
     padding: 40px;
-    /* margin: 20px;     */
+    margin: 20px;    
     border: solid;
     box-sizing: border-box;
     max-width: 1000px;
-    /* min-width: 100px; */
+    min-width: 100px;
      font-family: Georgia, Times, serif;
     border-color: #0088dd;
     justify-content: center;
@@ -24,11 +24,33 @@
 
 .para {
     display: flex;
-    /* margin: 40px; */
-    /* padding: 40px 100px 60px 60px; */
+    margin: 40px;
+    padding: 40px 100px 60px 60px;
     border: solid;
     border-color: #0088dd;
     color: aqua;
+}
+ */
 
+.pera{
+    text-align: center ;
+    font-weight: normal;
 }
 
+#box{
+    background-color: blue;
+    width: 300px;
+}
+.heading{
+    color: red;
+}
+.heading2{
+    color: red;
+}
+.heading3{
+    color: red;
+}
+.onof{
+    background-color: green;
+    color: blue;
+}
